@@ -31,6 +31,6 @@ jobs:
       - name: Validate JSON syntax
         run: |
           sudo apt-get update && sudo apt-get install -y jq
-          jq . submissions.json
+          jq . services.json
 
       
