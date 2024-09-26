@@ -36,3 +36,9 @@ required to modify the `services.json` file by adding their information in the s
 If you have any questions, feel free to contact the instructor at [thakerng@codefin.io].
 
 Presentation [https://www.canva.com/design/DAGI7rMu0iM/BVhelBtdd77LGzxROd71CA/edit?utm_content=DAGI7rMu0iM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
+## Awesome
+
+- Day 2 [git@github.com:codefin-stack/go-course-day-2.git]
+- Day 3 [git@github.com:codefin-stack/go-course-day-3.git]
+- Day 4 [git@github.com:codefin-stack/go-course-day-4.git]
