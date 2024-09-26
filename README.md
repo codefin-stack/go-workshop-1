@@ -39,6 +39,6 @@ Presentation [https://www.canva.com/design/DAGI7rMu0iM/BVhelBtdd77LGzxROd71CA/ed
 
 ## Awesome
 
-- Day 2 [git@github.com:codefin-stack/go-course-day-2.git]
-- Day 3 [git@github.com:codefin-stack/go-course-day-3.git]
-- Day 4 [git@github.com:codefin-stack/go-course-day-4.git]
+- Day 2 [https://github.com/codefin-stack/go-course-day-2.git]
+- Day 3 [https://github.com/codefin-stack/go-course-day-3.git]
+- Day 4 [https://github.com/codefin-stack/go-course-day-4.git]
